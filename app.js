@@ -80,7 +80,7 @@ app.post('/todos/done/:id', function (request, response, next) {
                 var update = "UPDATE task SET done = TRUE WHERE id = $1" ;
             };*/
 
-            return  db.any('UPDATE task SET done = $1 WHERE id = $2', [!!task.done, id]);
+            return  db.none('UPDATE task SET done = $1 WHERE id = $2', [!!task.done, id]);
         })
         .then(function() {
             response.redirect('/todos');
