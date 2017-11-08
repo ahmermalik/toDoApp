@@ -28,14 +28,14 @@
     {{#each todolist}}
 
         <div class="row itemlist">
-            <div class="col-md-6 ">
+            <div class=" ">
                 <form  action="/todos/done/{{id}}" id="form{{id}}" method="POST" class="form-horizontal">
                     <input id="checkbox1" type="checkbox" {{#if done}}checked{{/if}} onclick="document.querySelector('#form{{id}}').submit()">
                         <label for="checkbox1">{{description}}</label>
                 </form>
             </div>
 
-            <div class="col-md-6">
+            <div class="">
                 <form action ="/todos/delete/{{id}}" id="form_delete{{id}}" method="POST" class="form-horizontal" >
                     <input class="close" type="submit" value="&times;"></input>
                 </form>

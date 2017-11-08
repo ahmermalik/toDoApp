@@ -49,6 +49,7 @@ form {
 .itemlist {
     height: 100%;
     display: flex;
+    justify-content: center;
     text-align: center;
 }
 
@@ -88,16 +89,11 @@ form {
     border-radius: 30px;
     box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
     opacity: .2;
-    text-item: left;
+    /*text-item: left;*/
+    padding: 1px;
 
 }
 
 .placeholder{
     text-align: center;
-}
-
-.col-md-6{
-
-    padding:  5px;
-
 }

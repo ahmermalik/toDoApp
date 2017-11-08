@@ -32,7 +32,7 @@ app.get("/createaccount", function (request, response) {
 app.get("/todos", function (request, response, next) {
     let query = "SELECT * FROM task";
     db.any(query)                                   //your webpage will crash unless .any(0 or more)  .many(1 or more)  .none (has to have 0) .one (has to have one) tasks in the database when the server requests data.
-        .then(function(todolist){
+        .then(function(todolist){                   // db.any(query, [queryone, query.two, query.two, query.three])
             response.render('todos.hbs', {todolist: todolist});
         })
 
