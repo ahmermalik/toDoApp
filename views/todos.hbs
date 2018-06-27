@@ -24,24 +24,27 @@
 </form>
 
 
+
     <h2 class="title">To do list</h2>
 
     {{#each todolist}}
 
         <div class="row itemlist">
-            <div class=" ">
+            <div class="task-form col-8">
+
                 <form  action="/todos/done/{{id}}" id="form{{id}}" method="POST" class="form-horizontal">
                     <input id="checkbox1" type="checkbox" {{#if done}}checked{{/if}} onclick="document.querySelector('#form{{id}}').submit()">
-                        <label for="checkbox1">{{description}}</label>
                 </form>
-            </div>
 
-            <div class="">
-                <form action ="/todos/delete/{{id}}" id="form_delete{{id}}" method="POST" class="form-horizontal" >
+                <label for="checkbox1">{{description}}</label>
+            </div>
+            <div class="deletelist col-4">
+                <form id="formadjustments" action ="/todos/delete/{{id}}" id="form_delete{{id}}" method="POST" >
                     <input class="close" type="submit" value="&times;"></input>
                 </form>
             </div>
-        </div> <!-- end to-do-list -->
+        </div>
+
 
 
     {{/each}}
