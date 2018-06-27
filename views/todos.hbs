@@ -1,19 +1,20 @@
 
 {{title}}
 <div class="container-fluid">
-    <h2>Add a task</h2>
+    <h2 class="title">Add a task</h2>
 
-    <hr>
+
 
 
 <form class="add-form" action="/todos/add" method="POST">
     <div class="form-group">
-        <div class="row addtaskform text-center">
-        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 
 
+            <div class="row addtaskform ">
+                <div class="task-form col-sm-3 col-sm-6 col-sm-3">
 
-            <input name="task" class="form-control" id="exampleInputEmail1" aria-describedby="task submission" placeholder="Task">
+
+            <input name="task" class="form-control" id="exampleInputEmail1" aria-describedby="task submission" placeholder="How do you want to be productive today?">
         </div>
 
 
@@ -21,9 +22,9 @@
     </div>
     </div>
 </form>
-<hr>
 
-    <h2>To do list</h2>
+
+    <h2 class="title">To do list</h2>
 
     {{#each todolist}}
 

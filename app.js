@@ -80,7 +80,7 @@ app.post('/todos/done/:id', function (request, response, next) {
                 var update = "UPDATE task SET done = TRUE WHERE id = $1" ;
             };*/
 
-            return  db.none('UPDATE task SET done = $1 WHERE id = $2', [!!task.done, id]);
+            return  db.none('UPDATE task SET done = $1 WHERE id = $2', [!task.done, id]);
         })
         .then(function() {
             response.redirect('/todos');
@@ -92,8 +92,8 @@ app.post('/todos/done/:id', function (request, response, next) {
 
 
 
-app.listen(8000, function () {
-    console.log('Listening on port 8000');
+app.listen(9000, function () {
+    console.log('Listening on port 9000');
 });
 
 

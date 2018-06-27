@@ -2,11 +2,391 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d7172f-6730-4e13-b0ac-a6c2be402d30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/style.css" afterPath="$PROJECT_DIR$/public/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/socket_notes.js" afterPath="$PROJECT_DIR$/socket_notes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/todos.hbs" afterPath="$PROJECT_DIR$/views/todos.hbs" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/anymatch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/anymatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/anymatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/arr-diff/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/arr-diff/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/arr-diff/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/arr-diff/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/arr-diff/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/arr-diff/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/arr-diff/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/arr-diff/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-unique/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/array-unique/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-unique/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/array-unique/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-unique/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/array-unique/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-unique/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/array-unique/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/binary-extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/binary-extensions/binary-extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/binary-extensions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/binary-extensions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/boxen/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/boxen/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/brace-expansion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/braces/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/braces/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/braces/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/braces/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/braces/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chokidar/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chokidar/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chokidar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/lib/fsevents-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chokidar/lib/fsevents-handler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chokidar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chokidar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/code-point-at/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/code-point-at/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/code-point-at/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/code-point-at/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/color-convert/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-convert/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/color-convert/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/dist/es6-promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/dist/es6-promise.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/dist/es6-promise.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/dist/es6-promise.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/es6-promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/-internal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/asap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/enumerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/polyfill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/race.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/reject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/resolve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/then.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-brackets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-brackets/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-brackets/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-brackets/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/expand-brackets/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-range/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-range/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-range/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-range/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extglob/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extglob/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extglob/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extglob/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extglob/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extglob/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extglob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extglob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/filename-regex/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/filename-regex/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/filename-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/filename-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fill-range/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fill-range/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fill-range/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fill-range/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fill-range/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fill-range/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fill-range/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fill-range/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/for-own/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/for-own/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/for-own/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/for-own/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/install.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/bin/node-pre-gyp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/bin/node-pre-gyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/cloudformation/travis.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/lib/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/lib/install.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/abi_crosswalk.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/abi_crosswalk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/versioning.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/versioning.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/node_modules/node-pre-gyp/template-name.diff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fsevents/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-base/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-base/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-base/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-base/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob-parent/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob-parent/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob-parent/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/global-dirs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/global-dirs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/global-dirs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/global-dirs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-flag/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-flag/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-flag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-flag/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/has-flag/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ini/ini.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/ini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ini/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ini/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-dotfile/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-dotfile/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-dotfile/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-dotfile/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-equal-shallow/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-equal-shallow/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-equal-shallow/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-equal-shallow/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-extglob/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-extglob/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-extglob/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-extglob/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-extglob/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-extglob/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-extglob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-extglob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-glob/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-glob/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-glob/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-glob/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-glob/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-glob/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-number/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-number/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-number/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-number/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-path-inside/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-inside/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-path-inside/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-path-inside/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-posix-bracket/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-posix-bracket/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-posix-bracket/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-posix-bracket/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-primitive/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-primitive/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-primitive/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-primitive/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isobject/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/isobject/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isobject/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/isobject/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isobject/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/isobject/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isobject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/isobject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._baseassign/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._baseassign/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._baseassign/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._baseassign/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._basecopy/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._basecopy/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._basecopy/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._basecopy/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._bindcallback/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._bindcallback/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._bindcallback/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._bindcallback/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._createassigner/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._createassigner/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._createassigner/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._createassigner/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._getnative/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._getnative/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._getnative/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._getnative/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._isiterateecall/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._isiterateecall/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._isiterateecall/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash._isiterateecall/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.assign/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.assign/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.assign/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.assign/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.defaults/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.defaults/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.defaults/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.defaults/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.isarguments/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.isarguments/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.isarguments/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.isarguments/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.isarray/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.keys/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.keys/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.keys/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.keys/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.restparam/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.restparam/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.restparam/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash.restparam/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/micromatch/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/micromatch/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/micromatch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/micromatch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/micromatch/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/micromatch/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/micromatch/lib/chars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/micromatch/lib/expand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/micromatch/lib/glob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/micromatch/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/micromatch/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/micromatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/micromatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/asyncworker.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/asyncworker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/callback.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/callback.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/errors.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/errors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/maybe_types.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/maybe_types.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/methods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/new.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/new.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/node_misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/node_misc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/persistent.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/persistent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/scopes.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/scopes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/script.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/script.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/v8_internals.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/v8_internals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/doc/v8_misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/doc/v8_misc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_callbacks.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_callbacks.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_callbacks_12_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_callbacks_12_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_callbacks_pre_12_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_callbacks_pre_12_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_converters.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_converters.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_converters_43_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_converters_43_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_converters_pre_43_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_converters_pre_43_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_implementation_12_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_implementation_12_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_implementation_pre_12_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_implementation_pre_12_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_json.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_json.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_maybe_43_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_maybe_43_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_maybe_pre_43_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_maybe_pre_43_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_new.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_new.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_object_wrap.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_object_wrap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_persistent_12_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_persistent_12_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_persistent_pre_12_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_persistent_pre_12_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_private.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_private.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_typedarray_contents.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_typedarray_contents.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/nan_weak.h" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/nan_weak.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nan/tools/1to2.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nan/tools/1to2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/bin/nodemon.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/bin/nodemon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/doc/cli/authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/doc/cli/authors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/doc/cli/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/doc/cli/config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/doc/cli/help.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/doc/cli/help.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/doc/cli/topics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/doc/cli/topics.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/doc/requireable.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/doc/requireable.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/doc/rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/doc/rules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/docs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/docs/nodemon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/cli/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/cli/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/config/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/config/defaults.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/defaults.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/config/exec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/exec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/config/load.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/config/load.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/help/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/help/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/match.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/match.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/run.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/monitor/watch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/nodemon.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/nodemon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/rules/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/rules/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/spawn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/spawn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/colour.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/colour.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/lib/version.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/lib/version.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/travis_after_all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/number-is-nan/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/number-is-nan/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/number-is-nan/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/number-is-nan/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.omit/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.omit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.omit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.omit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parse-glob/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parse-glob/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parse-glob/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parse-glob/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/.verb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/node_modules/kind-of/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/node_modules/kind-of/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/node_modules/kind-of/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/node_modules/kind-of/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/is-number/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/kind-of/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/kind-of/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/kind-of/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/node_modules/kind-of/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomatic/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rc/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/BufferList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-cache/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-cache/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-cache/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regex-cache/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/test/auth-token.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/test/auth-token.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/registry-auth-token/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/registry-auth-token/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/range.bnf" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/range.bnf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/semver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/supports-color/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/supports-color/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/supports-color/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/supports-color/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undefsafe/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undefsafe/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undefsafe/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undefsafe/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undefsafe/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undefsafe/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undefsafe/lib/undefsafe.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undefsafe/lib/undefsafe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undefsafe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/undefsafe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/undefsafe/test/undefsafe.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/widest-line/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/widest-line/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/is-fullwidth-code-point/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/is-fullwidth-code-point/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/is-fullwidth-code-point/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/is-fullwidth-code-point/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/string-width/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/string-width/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/string-width/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/string-width/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/widest-line/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/widest-line/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/widest-line/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/landing.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/landing.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/todos.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/todos.hbs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,26 +400,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding>
-                <marker date="1510071744000" expanded="true" signature="2367:3276" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="todos.hbs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="todos.hbs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/todos.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="31" />
-              <folding>
-                <marker date="1510072383000" expanded="true" signature="75:1336" ph="..." />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -47,11 +412,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-              <folding>
-                <marker date="1510072572000" expanded="true" signature="233:317" ph="{...}" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="103" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -82,6 +444,10 @@
       <find>h2</find>
       <find>send_message</find>
       <find>itemlist</find>
+      <find>task</find>
+      <find>form-group</find>
+      <find>form-control</find>
+      <find>addtaskform</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,14 +459,14 @@
         <option value="$PROJECT_DIR$/views/todos.hbs.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/interviewchallengewk8.js" />
-        <option value="$PROJECT_DIR$/views/layout.hbs" />
         <option value="$PROJECT_DIR$/views/login.hbs.html" />
         <option value="$PROJECT_DIR$/views/login.hbs" />
         <option value="$PROJECT_DIR$/views/userlogin.hbs" />
-        <option value="$PROJECT_DIR$/views/landing.hbs" />
         <option value="$PROJECT_DIR$/socket_io_notes" />
         <option value="$PROJECT_DIR$/socket_notes.js" />
+        <option value="$PROJECT_DIR$/views/layout.hbs" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/landing.hbs" />
         <option value="$PROJECT_DIR$/views/todos.hbs" />
         <option value="$PROJECT_DIR$/public/style.css" />
       </list>
@@ -122,46 +488,40 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="222" />
-    <option name="y" value="-959" />
-    <option name="width" value="1397" />
-    <option name="height" value="959" />
+    <option name="x" value="41" />
+    <option name="y" value="41" />
+    <option name="width" value="1387" />
+    <option name="height" value="859" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="to_do_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="to_do_app" type="462c0819:PsiDirectoryNode" />
+              <item name="10.to_do_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10.to_do_app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="to_do_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="to_do_app" type="462c0819:PsiDirectoryNode" />
+              <item name="10.to_do_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10.to_do_app" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="to_do_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="to_do_app" type="462c0819:PsiDirectoryNode" />
+              <item name="10.to_do_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10.to_do_app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -172,15 +532,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.11.3/bin/node" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.11.3/bin/node" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,8 +553,8 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -210,11 +569,20 @@
       <workItem from="1509992491126" duration="15325000" />
       <workItem from="1510020539254" duration="4924000" />
       <workItem from="1510080623339" duration="66000" />
+      <workItem from="1517447565525" duration="1211000" />
+      <workItem from="1517791249054" duration="2113000" />
+      <workItem from="1517869928886" duration="2321000" />
+      <workItem from="1518124132059" duration="1718000" />
+      <workItem from="1518473207546" duration="1532000" />
+      <workItem from="1519271108504" duration="1342000" />
+      <workItem from="1520470658802" duration="1248000" />
+      <workItem from="1526933759454" duration="467000" />
+      <workItem from="1530057436886" duration="3274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38567000" />
+    <option name="totallyTimeSpent" value="53793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,24 +594,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="222" y="-959" width="1397" height="959" extended-state="0" />
+    <frame x="41" y="41" width="1387" height="859" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22238372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36921296" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18887262" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32987013" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5038986" side_tool="true" weight="0.36909324" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32987013" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49610138" visible="true" weight="0.37795275" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,58 +622,148 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510071744000" expanded="true" signature="2367:3276" ph="{...}" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/todos.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <marker date="1510072383000" expanded="true" signature="75:1336" ph="..." />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/todos.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/todos.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
-          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding>
-            <marker date="1510072572000" expanded="true" signature="233:317" ph="{...}" />
-          </folding>
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/landing.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/todos.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510071744000" expanded="true" signature="2367:3276" ph="{...}" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="31" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/todos.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/views/todos.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding>
-            <marker date="1510072383000" expanded="true" signature="75:1336" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -317,30 +777,21 @@
     <entry file="file://$PROJECT_DIR$/public/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <marker date="1510072572000" expanded="true" signature="233:317" ph="{...}" />
-          </folding>
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/todos.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <marker date="1510072383000" expanded="true" signature="75:1336" ph="..." />
-          </folding>
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
-          <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
-          <folding>
-            <marker date="1510071744000" expanded="true" signature="2367:3276" ph="{...}" />
-          </folding>
+          <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -352,42 +803,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510072572000" expanded="true" signature="233:317" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/views/todos.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <marker date="1510072383000" expanded="true" signature="75:1336" ph="..." />
-          </folding>
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
-          <caret line="65" column="18" lean-forward="false" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-          <folding>
-            <marker date="1510071744000" expanded="true" signature="2367:3276" ph="{...}" />
-          </folding>
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/todos.hbs.html" />
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/views/login.hbs.html" />
+    <entry file="file://$PROJECT_DIR$/socket_io_notes" />
+    <entry file="file://$PROJECT_DIR$/views/userlogin.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Untitled.rtf">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/interviewchallengewk8.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -396,63 +846,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/login.hbs.html" />
-    <entry file="file://$PROJECT_DIR$/views/layout.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/userlogin.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket_io_notes" />
-    <entry file="file://$PROJECT_DIR$/socket_notes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/landing.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="62" lean-forward="true" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <marker date="1510072572000" expanded="true" signature="233:317" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/todos.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <marker date="1510072383000" expanded="true" signature="75:1336" ph="..." />
+            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#a#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding>
-            <marker date="1510071744000" expanded="true" signature="2367:3276" ph="{...}" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket_notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="103" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/todos.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
