@@ -26,11 +26,11 @@ node.js <br>
 
 Recommended modules
 -------------------
-"body-parser": "^1.18.2"<br>
-"express": "^4.16.2"<br>
-"hbs": "^4.0.1"<br>
-"nodemon": "^1.17.5"<br>
-"pg-promise": "^7.2.0"<br>
+body-parser: ^1.18.2<br>
+express: ^4.16.2<br>
+hbs: ^4.0.1<br>
+nodemon: ^1.17.5<br>
+pg-promise: ^7.2.0<br>
 
 Installation
 ------------
